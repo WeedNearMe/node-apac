@@ -1,5 +1,5 @@
 {
-  "name": "apac",
+  "name": "json-apac",
   "description": "Amazon Product Advertising API Client for Node",
   "version": "0.0.11",
   "author": "Dustin McQuay <dmcquay@gmail.com>",
@@ -22,7 +22,7 @@
   },
   "main": "./lib/apac",
   "dependencies": {
-    "xml2js": ">=0.1.7"
+    "xml2json": "0.3.2"
   },
   "devDependencies": {
     "vows": ">=0.5.0"
